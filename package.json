@@ -1,5 +1,8 @@
 {
   "name": "awsome-next",
+  "author": {
+    "name": "Glênio Carvalho"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
